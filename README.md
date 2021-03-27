@@ -5,9 +5,6 @@ This is a plugin for [Noesis](https://richwhitehouse.com/index.php?content=inc_p
 
 ![picture](https://github.com/Jayveer/MGS-KMD-Noesis/blob/master/model.png?raw=true)
 
-### To Do
- - Fix problems with some textures
- - Add other vertex definition flags
 ##  Usage.
 
 Drag the dll file into the plugins folder of your Noesis folder, run noesis and find and locate the KMD file you wish to view. Textures will be applied automatically from their respective Dar files. It is best to use [Rex](https://github.com/Jayveer/Rex) to extract the files so they are in the correct folders and format.
